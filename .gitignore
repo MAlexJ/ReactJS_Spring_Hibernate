@@ -1,0 +1,6 @@
+# ignore
+.idea
+*.iml
+target
+src/main/webapp/resources/pages/node_modules
+src/main/webapp/resources/pages/.idea
